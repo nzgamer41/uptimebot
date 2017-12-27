@@ -1,2 +1,2 @@
-# uptimebot
-Discord bot that monitors whether tasks are running on host machine
+# UptimeBot
+All the work for this currently is in the alpha branch. Go look there.
